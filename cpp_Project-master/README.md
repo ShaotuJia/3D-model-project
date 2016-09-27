@@ -5,5 +5,6 @@ The end goal of the project is to create .STL files of the 3D models produced fo
 Other features can be added such as calculating 3D model volumes etc etc ...
 Generate3DSTL folder is the programming codes.
 Three Debug files are used for software testing in different OS.
-STL folder is several 3D model examples but not every model. 
+STL and STL%20 folder are several 3D model examples but not every model. 
+"3D Model using Analytic Shape" is the final presentation PPTs. 
 
